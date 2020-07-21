@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    text-align: center;
+}
+h1 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+h2 {
+    font-size: 1.5em;
+    margin: 20px;
+}
+.btn-secondary {
+    margin-bottom: 10px !important;
+}
+.aligncenter {
+    margin: 1em auto;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+.left {
+    position:absolute;
+    top:2%;
+}
+.right {
+    position:absolute;
+    top:2%;
+    right: 6%;
+}
+li {
+    font-size: 1.2em;
+}

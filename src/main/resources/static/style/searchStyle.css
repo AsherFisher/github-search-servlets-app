@@ -1,0 +1,59 @@
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    text-align: center;
+}
+h1 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.loginName{
+    display: block;
+    border: 1px #d1d7dc solid;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: #7FFFD4;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.box {
+    border: 1px #d1d7dc solid;
+    border-radius: 5px;
+    display: inline-block;
+    width: 500px;
+    height: auto;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+h2 {
+    text-align: center;
+    font-size: 22px;
+}
+.button {
+    margin-bottom: 20px;
+}
+.left {
+    position:absolute;
+    top:2%;
+}
+.aligncenter {
+    margin: 1em auto;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+.btn-secondary {
+    margin-bottom: 10px !important;
+}
+.input-group {
+    max-width: 500px;
+    margin-bottom: 30px;
+}
+#error{
+    display: none;
+}

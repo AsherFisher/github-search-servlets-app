@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ex3.asher"},{"l":"ex3.asher.beans"},{"l":"ex3.asher.controller"},{"l":"ex3.asher.filters"},{"l":"ex3.asher.repo"}]
